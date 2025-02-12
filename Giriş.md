@@ -15,6 +15,12 @@ kurslar ve kendi yapmış olduğum çalışmalar**
          Çalışma 4- Algoritma Gelistirme:Sıralı, Koşullu ve Tekrarlı Yapılar (for döngüsü, len, print gibi fonksiyonların kullanılması)
 
          Çalışma 5- Python programlama dili üzerinde koşul yapılar (if, elif, else gibi fonksiyonların kullanılması)
+
+         Çalışma 6- Python programlama dilinde tekrarlı yapılar (for, while, continue, break)
+
+         Çalışma 7- Algoritma Geliştirme:Sıralı,koşullu ve tekrarlı yapılar (if,else,elif gibi fonksiyonlar, tam bölünme, artık yıl gibi programlama kodlarının yazılması)
+
+
          
  
          
